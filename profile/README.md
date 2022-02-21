@@ -1,3 +1,5 @@
+<img src="avatar.png" align=center>
+
 # Who we are?
 We are PrideMC Network, We work alot things to our server.
 PrideMC Network have been work from 2015 and as present.
