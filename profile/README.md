@@ -1,4 +1,4 @@
-<img src="avatar.png" align=center>
+<img src="/profile/avatar.png" align=center>
 
 # Who we are?
 We are PrideMC Network, We work alot things to our server.
