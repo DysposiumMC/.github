@@ -1,1 +1,1 @@
-<p align="center"><a href="https://mcpridebedrock.tk"><img src="/profile/server-banner.gif" align="center"></a></p>
+<p align="center"><a href="https://mcpridebedrock.tk"><img src="/profile/server-banner.gif" align="center"><img src="https://api.loohpjames.com/serverbanner.png?ip=127.0.0.1&width=1024&name=PrideMC+Network" align="center"></a></p>
