@@ -1,1 +1,4 @@
-<p align="center"><a href="https://mcpridebedrock.tk"><img src="/profile/server-banner.gif" align="center"></a><br><a href="https://mcpride.tk"><img src="https://api.loohpjames.com/serverbanner.png?ip=127.0.0.1&width=1024&name=PrideMC+Network" align="center"></a></p>
+Hi 👋, We are **DysposiumMC Network**.
+<hr>
+
+This is an incoming minecraft community server for bedrock edition.
